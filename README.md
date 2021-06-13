@@ -2,7 +2,7 @@
 
 Bonjour, 
 
-j'ai utilisé XAAMP pour PHP 
+j'ai utilisé XAMPP pour PHP 
 
 je vous invite à placer ce projet dans le répertoire C:\xampp\htdocs
 
